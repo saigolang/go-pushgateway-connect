@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+
 	var labelNames []string
 	metriclabels := map[string]string{
 		"Name": "testing",
